@@ -1,0 +1,4 @@
+ANOUAl; Hinde; Souliére ; ;spécialiste; oui;
+Ranger; Joannie; Quan; ;généraliste; non;
+Exavier; Sauveur; généraliste; ; Nassim; oui;
+JUlien;Sorel;Nassim Hilali;NAH234;généraliste;non;
